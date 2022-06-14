@@ -82,6 +82,7 @@
 		DAD0D898285865AF0077C3C1 /* GoogleMapsWrongReverseGeocoding */ = {
 			isa = PBXGroup;
 			children = (
+				DA32F72A28586829006B7D29 /* GoogleMapsReverseGeocodingIssue.swift */,
 				DAD0D899285865AF0077C3C1 /* AppDelegate.swift */,
 				DAD0D89B285865AF0077C3C1 /* SceneDelegate.swift */,
 				DAD0D89D285865AF0077C3C1 /* ViewController.swift */,
@@ -210,6 +211,7 @@
 			files = (
 				DAD0D89E285865AF0077C3C1 /* ViewController.swift in Sources */,
 				DAD0D89A285865AF0077C3C1 /* AppDelegate.swift in Sources */,
+				DA32F72B28586829006B7D29 /* GoogleMapsReverseGeocodingIssue.swift in Sources */,
 				DAD0D89C285865AF0077C3C1 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
